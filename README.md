@@ -1,4 +1,4 @@
-# random_dimer_covering_on_the_AZ
+# The random dimer covering problem on the weighted Aztec graph
 This repository is dedicated to my MSc thesis at King's College London supervised by Dr Gabriele Sicuro (currently at University of Bologna).
 
 Title: The random dimer covering problem on the weighted Aztec graph
